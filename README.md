@@ -7,6 +7,7 @@ After installing PsychoPy and replicating this repository on your computer, open
 * Control condition: RP_26_CONTROL.py
 * Female Ideal condition: RP_26_FEMALEIDEAL.py
 * Male Ideal condition: RP_26_MALEIDEAL.py
+
 The script can now be run by pressing the green play-button.
-![Image of the green play-button.](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Green Play button"
+![Image of the green play-button.](https://github.com/joshua-behrens/researchproject-g26/blob/main/greenplaybutton.png "Green Play button")
 Your experiment should now be running! The data will be saved into an excel file in the location of the python script.
